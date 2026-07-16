@@ -1,0 +1,26 @@
+{
+  "skill_name": "accessible-alt-text",
+  "evals": [
+    {
+      "id": 1,
+      "eval_name": "portrait-self-description",
+      "prompt": "Write accessible alt text for this portrait. I'm sitting in front of a cream colored background that is blank, but there are some roses and small plants and a sculpture behind me of two hands that are offering a heart. I have long brown hair with streaks of silver-gray, glasses, red lipstick, and I'm wearing a black top.",
+      "expected_output": "Alt text that captures the specific human detail (silver streaks, red lipstick, gesture), spatial relationships (roses and plants framing), the sculpture's emotional meaning (hands offering a heart), and the overall mood. Should feel intimate and specific without being a list. Under 1000 words.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "eval_name": "landscape-atmospheric",
+      "prompt": "Write accessible alt text for this landscape photograph. It shows a wide valley at golden hour. Mountains in the distance are hazy and blue. The foreground has rough grass, warm-toned. There's a single tree on the far ridge, silhouetted. The sky is pale yellow-gold fading to gray at the top. No people, no structures. Feels very quiet and vast.",
+      "expected_output": "Alt text that conveys atmosphere, spatial depth (foreground to distance), color and light (golden hour warmth), and the emotional sense of solitude and space. Should be lyrical without being flowery. Describe what draws the eye and in what order.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "eval_name": "screenshot-interface-with-human-context",
+      "prompt": "Write accessible alt text for a screenshot. It shows a Slack message thread. The original message is from @jessie_dev: 'Shipped the new dashboard today after two weeks of debugging. Feels surreal.' Three people have replied with thumbs-up reactions and celebratory emoji. Someone commented: 'looks beautiful, great work.' The thread shows 8 replies, and there's a small blue avatar next to the original sender's name. The background is light gray with white message bubbles.",
+      "expected_output": "Alt text that explains the functional purpose (Slack thread), captures the human moment (developer sharing accomplishment), notes the visual elements (avatars, reactions, color) that convey support and celebration. Should feel warm and grounded, not mechanical.",
+      "files": []
+    }
+  ]
+}
