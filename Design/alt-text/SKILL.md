@@ -8,7 +8,7 @@ compatibility: "Image input (local file, URL, or pasted screenshot)"
 
 Alt text isn't a label. It's a window. Don't write like a museum placard or overwrite it. Write clear, direct description. Specific detail without fluff.
 
-Avoid pure inventory ("A woman with brown hair, glasses, red lipstick"). But also avoid flowery prose. The goal is to convey what matters visually—composition, gesture, spatial relationships, context—in the most efficient way possible.
+Avoid pure inventory ("Photo of a woman"). But also avoid flowery prose. The goal is to convey what matters visually (composition, gesture, spatial relationships, context) in the most efficient way possible.
 
 ## How It Works
 
